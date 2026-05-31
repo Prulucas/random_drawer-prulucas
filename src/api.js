@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://random-drawer.onrender.com',
+    baseURL: 'https://prulucas.pythonanywhere.com',
     headers: {
         'Content-Type': 'application/json',
     }
